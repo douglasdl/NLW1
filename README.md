@@ -1,6 +1,6 @@
 # &lt;NLW/> 1.0 - Ecoleta
 
-NLW Ecoleta ()
+NLW Ecoleta - Omnistack (Booster)
 
 <p align="center">
     <a href="#-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -19,7 +19,7 @@ NLW Ecoleta ()
 <br>
 <p align="center">
     <a href="https://douglasdl.github.io/NLW1/">
-        <img alt="Heat" src="https://douglasdl.github.io/images/Ecoleta.png" width="100%">
+        <img alt="Ecoleta" src="https://douglasdl.github.io/images/Ecoleta.png" width="100%">
     </a>
 </p>
 
@@ -33,6 +33,8 @@ This project was developped using the following technologies:
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3"></a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://www.sqlite.org/index.html"><img height="40" src="https://douglasdl.github.io/images/SQLite3.png"></a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 📚 Libraries
@@ -45,9 +47,10 @@ This project was developped using the following technologies:
 
 ## 📐 Project
 
-This was a Foundation project from NLW7(Heat)-Origin.
-Check the project online [here](https://douglasdl.github.io/NLW7-Origin/).
-NLW Heat is a digital nameplate created as a warming up and to be used at the DoWhile 2021 event.
+This was the project from the Next Level Week 1st Edition that was presented from JUN/01/2020 ~ JUN/07/2020.
+This project is a web and a mobile marketplace application to help people to efficiently find waste collection points.
+This project also utilizes map integration.
+Check the project online [here](https://douglasdl.github.io/NLW1/).
 
 ## 🔖 Layout
 
@@ -74,7 +77,7 @@ This project was done using [Visual Studio Code](https://code.visualstudio.com/)
     "terminal.integrated.fontSize": 16,
     "workbench.colorTheme": "Omni",
     "workbench.iconTheme": "material-icon-theme",
-		"editor.bracketPairColorization.enabled": true,
+    "editor.bracketPairColorization.enabled": true,
     "editor.minimap.enabled": false,
     "editor.wordWrap": "on",
     "workbench.editor.tabSizing": "shrink",
