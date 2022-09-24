@@ -1,4 +1,4 @@
-# &lt;NLW/> 1.0 - Ecoleta
+# &lt;nlw/> 1.0 - Ecoleta
 
 NLW Ecoleta - Omnistack (Booster)
 
